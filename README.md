@@ -1,2 +1,2 @@
-# sa_academy_proxy
+# 1b_gateway_proxy
 nginx proxy
